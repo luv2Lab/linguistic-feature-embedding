@@ -1,0 +1,1 @@
+This directory is used to store model files downloaded from Google BertBERT-Base, Multilingual Cased (New, recommended).
