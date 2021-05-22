@@ -1,0 +1,1 @@
+This directory is used to store the embedding of Gauss direct mapping. Please download it from here(https://drive.google.com/drive/folders/1KZlkgfTnAkoAY0oc64Mh4z1RPqpqN4Wd?usp=sharing) and store it in this directory
