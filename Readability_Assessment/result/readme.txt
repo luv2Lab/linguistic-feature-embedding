@@ -1,0 +1,1 @@
+This directory is used to store the result of experiment, it include the accuracy、neighbor accuracy, and so on.
