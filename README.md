@@ -31,7 +31,7 @@ Please cite if you use the above resources for your research:
 
 - [bert](https://github.com/google-research/bert)  
 Download: BERT-Base, Multilingual Cased (New, recommended)，
-Unzip and save to: Readability_Assessment的multilingual_L-12_H-768_A-12
+Unzip and save to: Readability_Assessment/multilingual_L-12_H-768_A-12
 
 ### Environment configuration   
 ```python
