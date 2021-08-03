@@ -23,7 +23,7 @@ model_TransE_newLoss.py is the TransE model with new loss function by us.
 model_TransE_oldLoss.py is the TransE model with the initial loss function
 
 This project is the code to train TransE to get its project vector. 
-You can copy the TransE_output to ../Graph-based_feature_embedding_computation/TransE_output and run project_embedding_TransE.py for projecting feature.
+You can copy the TransE_output to ../Syntatic_Dense_Embedding/TransE_output and run project_embedding_TransE.py for projecting feature.
 
 The TransE paper is:
 Bordes, A. et al. 2013. Translating embeddings for modeling multi-relational data. In Advances in Neural Information Processing Systems. Curran Associates, Inc, pages 2787–2795.
