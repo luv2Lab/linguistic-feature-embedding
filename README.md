@@ -16,12 +16,12 @@ Please cite if you use the above resources for your research:
 ------
 ### Data Preparation
 - GFE_Retrofitting: to produce syntactic dense embeddings with retrofitting
-  - run: Graph-based_feature_embedding_computation/project_embedding_retrofitting.py，
-  - Results will be saved in: Graph-based_feature_embedding_computation/GFE/GFE_Retrofitting 
+  - run: Syntactic_Dense_Embedding/project_embedding_retrofitting.py，
+  - Results will be saved in: Syntactic_Dense_Embedding/GFE/GFE_Retrofitting 
 
 - GFE_TransE: to produce syntactic dense embeddings with TransE
-  - run: Graph-based_feature_embedding_computation/project_embedding_TransE.py，
-  - Results will be saved in: Graph-based_feature_embedding_computation/GFE/GFE_TransE 
+  - run: Syntactic_Dense_Embedding/project_embedding_TransE.py，
+  - Results will be saved in: Syntactic_Dense_Embedding/GFE/GFE_TransE 
 
 - G-Doc: to produce document representation with Gaussian binning applied to linguistic feature vectors
   - In: Readability_Assessment/data/G_Doc
