@@ -1,0 +1,5 @@
+tensorflow-gpu==1.14
+keras==2.3.1
+pandas==1.13
+scikit-learn==0.24.1
+numpy==1.19.2
